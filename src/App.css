@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+
+.cover {
+  height: 100%;
+  width: 100%;
+}
+
+.maintext {
+  text-align: center;
+  color: #cda641;
+  background-color: white;
+}
